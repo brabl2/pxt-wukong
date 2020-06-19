@@ -1,8 +1,8 @@
 /**
 * Functions to WuKong multifunctional expansion board by ELECFREAKS Co.,Ltd.
 */
-//% color=#ff7f24  icon="\uf0c2" block="wuKong" blockId="wuKong"
-namespace wuKong {
+//% color=#ff7f24  icon="\uf0c2" block="wuKongWoNeo" blockId="wuKongWoNeo"
+namespace wuKongWoNeo {
     const board_address = 0x10
 	/**
 	* LightMode
@@ -269,10 +269,10 @@ namespace wuKong {
     }
     /**
     * TODO: Set Mecanum wheel car 
-    * @param LeftFront A servo in the ServoList , eg: wuKong.ServoList.S1
-    * @param LeftRear A servo in the ServoList , eg: wuKong.ServoList.S2
-    * @param RightFront A servo in the ServoList , eg: wuKong.ServoList.S3
-    * @param RightRear A servo in the ServoList , eg: wuKong.ServoList.S4
+    * @param LeftFront A servo in the ServoList , eg: wuKongWoNeo.ServoList.S1
+    * @param LeftRear A servo in the ServoList , eg: wuKongWoNeo.ServoList.S2
+    * @param RightFront A servo in the ServoList , eg: wuKongWoNeo.ServoList.S3
+    * @param RightRear A servo in the ServoList , eg: wuKongWoNeo.ServoList.S4
     */
     //% block="Set Mecanum wheel|Left Front %LeftFront|Left Rear %LeftRear|Right Front %RightFront|Right Rear %RightRear"
     //% subcategory=Mecanum
