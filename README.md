@@ -2,8 +2,10 @@
 
 ![Wukong](https://raw.githubusercontent.com/elecfreaks/pxt-wukong/master/Wukong.jpg)
 
-This library is designed to drive Wukong expansion board (without Neopixel), You can get Wukong board here.
+This library is designed to drive Wukong expansion board. 
+Since this extension is not using Neopixel, it can be used together with Bluetooth extension.
 
+You can get Wukong board here:
 [https://www.elecfreaks.com/store/elecfreaks-wukong-breakout-board-for-micro-bit.html](https://www.elecfreaks.com/store/elecfreaks-wukong-breakout-board-for-micro-bit.html)
 
 ## Code Example
