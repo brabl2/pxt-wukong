@@ -1,11 +1,10 @@
 {
-    "name": "wuKong",
+    "name": "wuKongWoNeo",
     "version": "1.2.0",
-    "description": "micro:bit multifunctional expansion board WuKong",
+    "description": "micro:bit multifunctional expansion board WuKong (without Neopixel)",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "neopixel": "github:elecfreaks/pxt-neopixel"
+        "core": "*"
     },
     "files": [
         "main.ts",
